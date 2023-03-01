@@ -1,0 +1,137 @@
+#title{
+    background-color: #ff4c68;
+    
+}
+.we{
+ color: aliceblue;
+    font-family: "Montserrat";
+font-size: 3.5rem;
+line-height: 1.5;
+font-weight:bold;
+padding-bottom:50px;
+
+}
+.container-flud{
+    padding: 2% 15%;
+}
+
+
+body{
+    font-family: "Montserrat";
+}
+a.navbar-brand{
+    font-family: 'Dancing Script', cursive;
+
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+.nav-item{
+    padding: 20px;
+}
+.nav-link{
+    font-size: 1.2rem;
+    font-family:"montserrat";
+    font-weight: 100;
+}
+.downlod-bo{
+margin-right: 3%;
+    
+}
+.im-item{ 
+    transform: rotate(25deg);
+    width: 60%;
+    position: relative;
+    top: 40px;
+    left: 60px;
+}
+.im-icon{
+    color: #ef8172;
+   margin-bottom: 1rem;
+   
+}
+
+.middle{
+    font-family:"montserrat";
+    font-weight: 900;
+    font-size: 1.5rem;
+   
+}
+.para-middle{
+    color: #8f8f8f;
+    padding: 5%;
+    
+}
+.im-icon:hover{
+    color: #ff4c68;
+}
+#features{
+    padding:7% 15%;
+    background-color: #fff;
+   position: relative;
+   bottom: 80px;
+    z-index: 1;
+}
+.features-box{
+    text-align: center;
+}
+
+#testimonials{
+    background-color:#ef8172;
+    
+    text-align: center;
+    color: #fff;
+}
+.carousel-item{
+    padding: 7% 15%;
+
+}
+.test{
+    font-family: "montserrat";
+    font-size: 3rem;
+    font-weight: bold;
+    
+}
+.dogs{
+    border-radius: 100%;
+    width: 10%;
+    margin: 20px ;
+}
+#press{
+    background-color: #ef8172;
+    text-align: center;
+    padding-bottom: 50px;
+}
+.press-img{
+    width: 15%;
+    margin: 20px;
+}
+
+#pricing{
+    padding: 3% 15%;
+    text-align: center;
+}
+.btn-pricing{
+    width: 90%;
+    height: 20%;
+}
+
+#cta{
+    background-color:#ff4c68;
+    text-align: center;
+    padding: 250px;
+}
+.thin{
+    color: #fff;
+    font-size: 4.5rem;
+    padding-bottom: 50px;
+}
+.dowload{
+    margin-right: 30px;
+}
+.icon{
+    margin-right: 10px;
+}
+#footer{
+    padding: 5%;
+    text-align: center;
+}
